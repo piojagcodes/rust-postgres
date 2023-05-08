@@ -1,0 +1,10 @@
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/binstalk_types-f515ddd82db53803.rmeta: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall/package_formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/crate_info.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/libbinstalk_types-f515ddd82db53803.rlib: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall/package_formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/crate_info.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/binstalk_types-f515ddd82db53803.d: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall/package_formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/crate_info.rs
+
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/lib.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/cargo_toml_binstall/package_formats.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/binstalk-types-0.3.0/src/crate_info.rs:

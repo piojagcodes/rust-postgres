@@ -1,0 +1,10 @@
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/linux_raw_sys-94973e424fc0b725.rmeta: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/errno.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/general.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/ioctl.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/liblinux_raw_sys-94973e424fc0b725.rlib: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/errno.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/general.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/ioctl.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/linux_raw_sys-94973e424fc0b725.d: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/errno.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/general.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/ioctl.rs
+
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/lib.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/errno.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/general.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.3.7/src/x86_64/ioctl.rs:

@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=manifest.rc
+cargo:rerun-if-changed=windows.manifest

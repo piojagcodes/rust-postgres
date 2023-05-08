@@ -1,0 +1,11 @@
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/file_format-d061e6577a75b51f.rmeta: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/macros.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/readers.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/signatures.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/libfile_format-d061e6577a75b51f.rlib: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/macros.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/readers.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/signatures.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/file_format-d061e6577a75b51f.d: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/macros.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/formats.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/readers.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/signatures.rs
+
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/lib.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/macros.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/formats.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/readers.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/file-format-0.15.0/src/signatures.rs:

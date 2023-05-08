@@ -1,0 +1,1 @@
+{"rustc":482710291779373790,"features":"","target":0,"profile":0,"path":0,"deps":[[11123986339526298879,"build_script_build",false,3312200360696286062]],"local":[{"RerunIfChanged":{"output":"debug/build/cargo-binstall-c527789b25e2138c/output","paths":["build.rs","manifest.rc","windows.manifest"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

@@ -1,0 +1,12 @@
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/beef-d108cc545007e99f.rmeta: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/traits.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/wide.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/serde.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/generic.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lean.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/libbeef-d108cc545007e99f.rlib: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/traits.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/wide.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/serde.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/generic.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lean.rs
+
+/home/attilluss/rust-postgres/rust_postgres/target/debug/deps/beef-d108cc545007e99f.d: /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lib.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/traits.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/wide.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/serde.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/generic.rs /home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lean.rs
+
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lib.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/traits.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/wide.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/serde.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/generic.rs:
+/home/attilluss/.cargo/registry/src/index.crates.io-6f17d22bba15001f/beef-0.5.2/src/lean.rs:
